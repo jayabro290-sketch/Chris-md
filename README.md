@@ -7,12 +7,12 @@
 <img align="center" height="auto"
 src="https://dar3x.vercel.app/menu.png">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=506EF8&lines=WELCOME+TO+Chris+MD+MADE+BY;MR+ABRO+ICE;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=506EF8&lines=WELCOME+TO+Chris+MD+MADE+BY;MR+ABRO+and ICE tech;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)
 <br>
 
    </p>
 <p align="center">
-<a href="https://github.com/jayabro"><img title="Author" src="https://img.shields.io/badge/jay-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@Jaybro"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/263784263228"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/jayabro"><img title="Author" src="https://img.shields.io/badge/jay-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@Jaybro-z1v"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/263784263228"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/> 
 
  <p align="center">
