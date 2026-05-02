@@ -7,7 +7,7 @@
 <img align="center" height="auto"
 src="https://dar3x.vercel.app/menu.png">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=506EF8&lines=WELCOME+TO+Chris+MD+MADE+BY;MR+ABRO+and ICE tech;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=506EF8&lines=WELCOME+TO+Chris+MD+MADE+BY;MR+ABRO+ice;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)
 <br>
 
    </p>
