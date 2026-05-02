@@ -12,17 +12,17 @@ src="https://dar3x.vercel.app/menu.png">
 
    </p>
 <p align="center">
-<a href="https://github.com/jayabro"><img title="Author" src="https://img.shields.io/badge/mrfrank-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@mrfr4nk"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/263784263328"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/jayabro"><img title="Author" src="https://img.shields.io/badge/jay-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@Jaybro"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/263784263228"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/> 
 
  <p align="center">
-<a href="https://github.com/mrfr8nk/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrfr8nk?color=purple&style=flat-square"></a>
-<a href="https://github.com/mrfrankofcc/SUBZERO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfrankofcc/SUBZERO-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/mrfrankofcc/SUBZERO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrfrankofcc/SUBZERO-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/mrfr8nk/followers"><img title="FANS" src="https://img.shields.io/github/followers/mrfr8nk?color=purple&style=flat-square"></a>
+<a href="https://github.com/Jayabro/CHRIS-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfrankofcc/SUBZERO-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/jayabro/CHRIS-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrfrankofcc/SUBZERO-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/jayabro/Chris-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/jayabro/Chris-MD?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/jayabro/Chris-md/"><img title="Size" src="https://img.shields.io/github/repo-size/jayabro/Chris-md?style=flat-square&color=green"></a>
-<a href="https://github.com/mrfr8nk.svg"></a>&nbsp;&nbsp;</a>
-<a href="https://github.com/Jayabro/ChrisO-MD"Dev"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
+<a href="https://github.com/jayabro.svg"></a>&nbsp;&nbsp;</a>
+<a href="https://github.com/jayabro/ChrisO-MD"Dev"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
   <img src="https://komarev.com/ghpvc/?username=jayabro&label=VIEWS&style=flat-square&color=blue" />
 </a>
 <p align="center">
@@ -41,7 +41,7 @@ src="https://dar3x.vercel.app/menu.png">
 <p align="center">
     <strong>𝗚𝗘𝗧 𝗦𝗘𝗦𝗦𝗜𝗢𝗡_𝗜𝗗 </strong>
   <br>
-    <a href="https://pair.subzero.gleeze.com" target="_blank">
+    <a href="https://pair.Chris.gleeze.com" target="_blank">
         <img alt="Session ID" src="https://img.shields.io/badge/SESSION%20ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkpurple"/>
     </a>
 </p>
