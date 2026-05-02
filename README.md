@@ -1,1 +1,1 @@
-# Chris-md deplorable soon
+# Chris md is now available
